@@ -1,6 +1,6 @@
                                                             MET/CAL Procedure
 =============================================================================
-INSTRUMENT:            DataPrecition938 Capacitance
+INSTRUMENT:            Capacitance
 DATE:                  2023-08-31 08:14:37
 AUTHOR:                Dan Erlandsen
 REVISION:
